@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "stock-market"
+  "defaultProject": "stock-market",
+  "cli": {
+    "analytics": "7ff00929-fc83-4414-bfb3-715982dd24ae"
+  }
 }
